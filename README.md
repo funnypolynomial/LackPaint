@@ -6,6 +6,7 @@ A photoframe/slideshow in the style of _MacPaint_ from 1981. Arduino Uno plus 48
 
 YouTube video: https://youtu.be/0k75EQjjzhA  
 Flickr album: https://flic.kr/s/aHBqjCEDmW  
+Hackaday: https://hackaday.io/project/204744-lackpaint
 ---
 **What**:
  A photoframe in the style of v1.0 of MacPaint (1981) https://en.wikipedia.org/wiki/MacPaint
