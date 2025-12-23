@@ -1,11 +1,14 @@
 # LackPaint
 A photoframe/slideshow in the style of _MacPaint_ from 1981. Arduino Uno plus 480x320 LCD plus microSD card. A script to convert JPGs to monochrome dithered BMPs.
+
 <img width="1824" height="1368" alt="image" src="https://github.com/user-attachments/assets/d9711936-674b-4e6f-b778-a5dba2212f4f" />
 <img width="1824" height="1368" alt="image" src="https://github.com/user-attachments/assets/667fb6da-0930-4f9e-8658-78c0a11318ba" />
-[YouTube video](https://youtu.be/0k75EQjjzhA)
+
+YouTube video: https://youtu.be/0k75EQjjzhA  
+Flickr album: https://flic.kr/s/aHBqjCEDmW  
 ---
 **What**:
- A photoframe in the style of v1.0 of MacPaint (1981) (https://en.wikipedia.org/wiki/MacPaint)
+ A photoframe in the style of v1.0 of MacPaint (1981) https://en.wikipedia.org/wiki/MacPaint
  It uses a Arduino Uno and 480x320 LCD shield with built-in SD card support.  
  Files are loaded from a directory on a MicroSD card on the LCD shield and displayed 
  sequentially or randomly.
