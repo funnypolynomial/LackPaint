@@ -20,7 +20,7 @@
 // If defined, uses appended file name instead of 8.3, if found.
 #define CFG_READ_IMAGE_NAME
 
-// If defined, filenames are show with trailing .BMP/JPG extension, otherwise it is stripped.
+// If defined, filenames are shown with trailing .BMP/JPG extension, otherwise it is stripped.
 //#define CFG_SHOW_IMAGE_EXT
 
 // If defined, filenames are show lowercase.
@@ -30,7 +30,7 @@
 // File must use 4-bit, but code can show 4, 2 or 1 bit.
 // Greyscale is not as consistent with the look of the rest of the display, but does give better images.
 // Undefining to remove support saves ~440 program storage bytes.
-//#define CFG_GREYSCALE_BITS  4
+#define CFG_GREYSCALE_BITS  4
 
 // Colour used to fill empty gaps either side of slide, LCD_BLACK or LCD_WHITE.
 #define CFG_GAP_FILL_COLOUR LCD_WHITE
